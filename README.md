@@ -1,1 +1,2 @@
 # statistical_modeling
+データ解析のための統計モデリング入門
